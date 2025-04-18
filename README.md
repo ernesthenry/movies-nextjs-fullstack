@@ -2,8 +2,6 @@
 
 A modern, responsive movie browsing application built with Next.js that allows users to explore movie details using The Movie Database (TMDB) API. The app includes user authentication features and a clean, responsive interface.
 
-![Movie App Screenshot](https://via.placeholder.com/800x400?text=Movie+App+Screenshot)
-
 ## Features
 
 - **Movie Browsing**: Browse through a collection of movies from TMDB
